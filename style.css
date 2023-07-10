@@ -54,6 +54,49 @@
 }
 .featured-desc{
     color: rgb(106, 106, 106);
-    
+    font-size: 15px;
+}
+
+/* featured image styles */
+.featured-flower-img{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px 200px 120px 200px;
+    text-align: center;
+}
+.pink{
+    height: 300px;
+    width: 250px;
+    background-color: #ffb3c6;
+    height: 380px;
+    width: 220px;
+    padding: 80px 60px 0px 60px;
+    border-radius: 300px 300px 0px 0px;
+    margin-bottom: 20px;
+}
+.flower-desc{
+    color: rgb(36, 36, 36);
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.red{
+    height: 70px;
+    width: 70px;
+    background-color: #90e0ef;
+    height: 380px;
+    width: 220px;
+    padding: 80px 60px 0px 60px;
+    border-radius: 300px 300px 0px 0px;
+    margin-bottom: 20px;
+}
+.yellow{
+    background-color: #76c893;
+    height: 380px;
+    width: 220px;
+    padding: 80px 60px 0px 60px;
+    border-radius: 300px 300px 0px 0px;
+    margin-bottom: 20px;
 
 }
+
