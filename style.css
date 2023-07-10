@@ -39,3 +39,21 @@
     border: none;
     border-radius: 5px;
 }
+
+/* featured section style */
+
+.featured-text{
+    text-align: center;
+    margin-top: 150px;
+}
+.title-primary{
+    color: black;
+    font-size: 35px;
+    font-weight: 900;
+    margin-bottom: 18px;
+}
+.featured-desc{
+    color: rgb(106, 106, 106);
+    
+
+}
