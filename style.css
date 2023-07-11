@@ -224,3 +224,31 @@
     text-align: center;
     padding-bottom: 120px;
 }
+
+/* custom order section styles */
+.custom-bouquet{
+    text-align: center;
+}
+.custom-desc{
+    color: rgb(156, 156, 156);
+    font-size: 15px;
+    padding-bottom: 40px;
+}
+.order-form{}
+.order{
+    padding: 15px 500px 15px 15px;
+    margin-bottom: 25px;
+    background-color: #e0e6f7;
+    border: none;
+    border-radius: 8px;
+}
+.order-details{
+    background-color: #e0e6f7;
+    border: none;
+    border-radius: 8px;
+    padding: 15px 360px 15px 15px;
+    margin-bottom: 25px;
+}
+.order-btn{
+    margin-bottom: 25px;
+}
