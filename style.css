@@ -136,10 +136,29 @@
     justify-content: center;
     gap: 20px;
     margin-bottom: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
-.instagram-img{
-    width: 250px;
-    height: 300px;
+
+.latest-deal{
+    text-align: center;
+    padding-top: 120px;
+    background-image: url('image/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 120px;
+}
+.hot-deal-desc{
+    color: rgb(106, 106, 106);
+    font-size: 15px;
+    padding-bottom: 40px;
+}
+.email{
+    padding: 15px 500px 15px 15px;
+    margin-bottom: 140px;
+    margin-right: 15px;
+    border: none;
+    border-radius: 8px;
 }
 
 
