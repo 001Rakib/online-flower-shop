@@ -6,8 +6,6 @@
 /* banner section styles */
 
 .banner-img{
-    height: 635px;
-    width: 800px;
     padding-right: 50px;
     padding-top: 50px;
 }
@@ -15,10 +13,11 @@
     background-color: #ffc2d1;
     display: flex;
     justify-content: space-between;
+    height: 850px;
 }
 .banner-text{
     padding-left: 200px;
-    padding-top: 160px;
+    padding-top: 200px;
 }
 .banner-title{
 
@@ -65,8 +64,6 @@
     text-align: center;
 }
 .pink{
-    height: 300px;
-    width: 250px;
     background-color: #ffb3c6;
     height: 380px;
     width: 220px;
@@ -97,6 +94,31 @@
     padding: 80px 60px 0px 60px;
     border-radius: 300px 300px 0px 0px;
     margin-bottom: 20px;
-
 }
+/* hot deal section style */
+.hot-deal{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffebf0;
+    text-align: center;
+}
+.hot-deal-img{
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hot-deal-text{
+    padding-left: 200px;
+}
+.off{
+    color: rgb(254, 89, 117);
+}
+.deal-desc{
+    color: rgb(106, 106, 106);
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
 
