@@ -140,6 +140,8 @@
     margin-right: 100px;
 }
 
+/* hot deals section styles */
+
 .latest-deal{
     text-align: center;
     padding-top: 120px;
@@ -159,6 +161,27 @@
     margin-right: 15px;
     border: none;
     border-radius: 8px;
+}
+
+.footer-container{
+    background-color: black;
+}
+.foot{
+    color: white;
+    padding-top: 120px;
+}
+.footer-text{
+    text-align: center;
+}
+.footer-desc{
+    color: rgb(201, 200, 200);
+    font-size: 15px;
+    padding-bottom: 40px;
+}
+.footer-end{
+    color: rgb(178, 178, 178);
+    text-align: center;
+    padding-bottom: 120px;
 }
 
 
